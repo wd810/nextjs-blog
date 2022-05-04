@@ -42,7 +42,7 @@ export default function Layout({ children, home}) {
                             <a>
                                 <Image 
                                     priority
-                                    src='images/avatar.png'
+                                    src='/images/avatar.png'
                                     className={utilStyles.borderCircle}
                                     height={108}
                                     width={108}
